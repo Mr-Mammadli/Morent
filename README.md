@@ -32,12 +32,12 @@ To run the project locally, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/RENTAL.git
+   git clone https://github.com/your-username/Morent.git
    ```
 
 2. **Navigate to project directory:**
    ```bash
-   cd RENTAL
+   cd Morent
    ```
 
 3. **Install dependencies:**
